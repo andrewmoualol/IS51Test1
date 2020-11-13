@@ -1,0 +1,37 @@
+[1mdiff --git a/test_1.py b/test_1.py[m
+[1mindex f82261d..77b5020 100644[m
+[1m--- a/test_1.py[m
+[1m+++ b/test_1.py[m
+[36m@@ -18,3 +18,32 @@[m [mIf the Option2 is better, we output to the user "Option 2 is better"[m
+ [m
+ [m
+ [m
+[32m+[m
+[32m+[m
+[32m+[m[32m"""[m
+[32m+[m
+[32m+[m[32m#option1[m
+[32m+[m[32mreturn 100 * 10[m
+[32m+[m
+[32m+[m[32m#option2[m
+[32m+[m[32mamount= 1[m
+[32m+[m[32mlist1 = [][m
+[32m+[m[32mloop 10 times[m
+[32m+[m[32m    add amount to list[m
+[32m+[m[32m    amount *= 2[m
+[32m+[m[32msum = sum of all items in loop[m
+[32m+[m[32mreturn sum[m
+[32m+[m[32m# main[m
+[32m+[m[32m    var1 = option1[m
+[32m+[m[32m    var2 = option2[m
+[32m+[m
+[32m+[m[32m    If var1 = var 2[m
+[32m+[m[32m        "Option 1 and Option 2 pays the same"[m
+[32m+[m[32m    If var1 < var2[m
+[32m+[m[32m        "Option 2 is better"[m
+[32m+[m[32m    else[m
+[32m+[m[32m        "Option 1 is better"[m
+[32m+[m
+[32m+[m[32mmain[m
+[32m+[m[32m"""[m
+[32m+[m
